@@ -1233,22 +1233,22 @@ header .logo a {
  */
 @media only screen and (max-width:1024px) {
 	header .top-bar {
-		left: 0px;
+		left: 60px;
 	}
 }
 @media only screen and (max-width:768px) {
 	header .top-bar {
-		left: 0px;
+		left: 50px;
 	}
 }
 @media only screen and (max-width:600px) {
 	header .top-bar {
-		left: 0px;
+		left: 35px;
 	}
 }
 @media only screen and (max-width:400px) {
 	header .top-bar {
-		left: 0px;
+		left: 25px;
 	}
 }
 
